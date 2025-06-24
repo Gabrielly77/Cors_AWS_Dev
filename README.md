@@ -1,5 +1,8 @@
 # Cors_AWS_Dev
 
+![image](https://github.com/user-attachments/assets/2d43bad6-e1f7-43a0-b1e8-8a528985cb4e)
+
+
 🔥 O que é CORS na AWS Developer?
 CORS = Cross-Origin Resource Sharing (Compartilhamento de Recursos entre Origens Diferentes).
 
